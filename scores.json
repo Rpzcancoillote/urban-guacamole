@@ -1,0 +1,59 @@
+{
+    "scores": [
+        {
+            "date": "2023-08-14",
+            "eva": "12",
+            "gabrielle": "23",
+            "marie": "8",
+            "salome": "2",
+            "corentin": "20",
+            "florian": "13",
+            "julian": "12",
+            "simon": "9"
+        },
+        {
+            "date": "2023-08-15",
+            "eva": "12",
+            "gabrielle": "23",
+            "marie": "8",
+            "salome": "2",
+            "corentin": "20",
+            "florian": "13",
+            "julian": "12",
+            "simon": "9"
+        },
+        {
+            "date": "2023-08-16",
+            "eva": "12",
+            "gabrielle": "23",
+            "marie": "8",
+            "salome": "2",
+            "corentin": "20",
+            "florian": "13",
+            "julian": "12",
+            "simon": "9"
+        },
+        {
+            "date": "2023-08-17",
+            "eva": "12",
+            "gabrielle": "23",
+            "marie": "8",
+            "salome": "2",
+            "corentin": "20",
+            "florian": "13",
+            "julian": "12",
+            "simon": "9"
+        },
+        {
+            "date": "2023-08-18",
+            "eva": "12",
+            "gabrielle": "23",
+            "marie": "8",
+            "salome": "2",
+            "corentin": "20",
+            "florian": "13",
+            "julian": "12",
+            "simon": "9"
+        }
+    ]
+}

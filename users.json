@@ -12,14 +12,14 @@
             "picture": "https://randomuser.me/api/portraits/lego/1.jpg"
         },
         {
-            "id": "salome",
-            "username": "Salomé",
-            "picture": "https://randomuser.me/api/portraits/lego/2.jpg"
-        },
-        {
             "id": "marie",
             "username": "Marie",
             "picture": "https://randomuser.me/api/portraits/lego/3.jpg"
+        },
+        {
+            "id": "salome",
+            "username": "Salomé",
+            "picture": "https://randomuser.me/api/portraits/lego/2.jpg"
         },
         {
             "id": "corentin",
