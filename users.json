@@ -1,0 +1,30 @@
+{
+    "data": 
+        [
+            {
+            "id": "eva",
+            "username": "Eva"
+        },{
+            "id": "gabrielle",
+            "username": "Gabrielle"
+        },{
+            "id": "salome",
+            "username": "Salomé"
+        },{
+            "id": "marie",
+            "username": "Marie"
+        },{
+            "id": "corentin",
+            "username": "Corentin"
+        },{
+            "id": "florian",
+            "username": "Florian"
+        },{
+            "id": "julian",
+            "username": "Julian"
+        },{
+            "id": "simon",
+            "username": "Simon"
+        }
+    ]
+}
