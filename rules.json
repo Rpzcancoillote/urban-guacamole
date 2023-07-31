@@ -1,6 +1,6 @@
 {
    "rules":{
-      "screen_title":"Règles du jeu",
+      "screenTitle":"Règles du jeu",
       "content":[
          {
             "index":1,
@@ -10,7 +10,7 @@
          {
             "index":2,
             "type":"subtitle",
-            "contenu":"Sous-titre de ma page"
+            "contenu":"Sous-titre de ma pagscoe"
          },
          {
             "index":3,
