@@ -2,11 +2,6 @@
    "rules":{
       "screenTitle":"Règles du jeu",
       "content":
-      [
-         {
-            "tabTitle": "Onglet 01",
-            "content": []
-         }
-      ]
+      []
    }
 }
