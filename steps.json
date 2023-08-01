@@ -10,7 +10,18 @@
             "bbox":[2.2241220,48.8155755,2.4697602,48.9021560],
             "lat": 48.864716,
             "lon": 2.349014,
-            "geometry": [[
+            "geojson": {
+                "type": "FeatureCollection",
+                "features": [
+                    {
+                        "geometry": {
+                            "type": "Polygon",
+                            "coordinates": []
+                        }
+                    }
+                ]
+            },
+            "polygon": [
                 [
                     2.224122,
                     48.854199
