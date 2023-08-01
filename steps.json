@@ -39,13 +39,22 @@
             "lon": -43.1729
         },
         {
-            "date": "2023-09-10 07:00:00",
+            "date": "2023-07-30 07:00:00",
             "countryCode": "FR",
             "city": "Moscou",
             "country": "Russie",
             "image":"https://media.istockphoto.com/id/621235832/fr/photo/matin-dautomne-%C3%A0-la-cath%C3%A9drale.jpg?s=612x612&w=0&k=20&c=x86tQ_WT8h5hB4sgMBtjludng9_5GgL1NLSYrL1-Ugo=",
             "lat": 55.7558,
             "lon": 37.6173
-        } 
+        },
+        {
+            "date": "2023-09-10 07:00:00",
+            "countryCode": "NL",
+            "city": "Amsterdam",
+            "country": "Hollande",
+            "image":"https://media.istockphoto.com/id/1143539287/fr/photo/canal-%C3%A0-amsterdam-pays-bas-maisons-rivi%C3%A8re-amstel.jpg?s=612x612&w=0&k=20&c=sH-RlqwppkqO0oWC38-wT6medazkabTDPzZTacRUJ9w=",
+            "lat": 52.3676,
+            "lon": 4.9041
+        }
     ]
 }
