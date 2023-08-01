@@ -2,14 +2,14 @@
     "scores": [
         {
             "date": "2023-08-14 07:00:00",
-            "eva": 12,
-            "gabrielle": 23,
-            "marie": 8,
-            "salome": 2,
-            "corentin": 20,
-            "florian": 13,
-            "julian": 12,
-            "simon": 9
+            "eva": 120,
+            "gabrielle": 230,
+            "marie": 80,
+            "salome": 20,
+            "corentin": 200,
+            "florian": 130,
+            "julian": 120,
+            "simon": 90
         },
         {
             "date": "2023-08-15 07:00:00",
