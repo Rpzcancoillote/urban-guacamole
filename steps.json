@@ -30,12 +30,12 @@
         } ,
         {
             "date": "2023-07-29 07:00:00",
-            "countryCode": "BR",
-            "city": "Rio de Janeiro",
-            "country": "Brésil",
-            "image":"https://images.ctfassets.net/bth3mlrehms2/1RA6MIQkZhShF2sUf9KjpZ/8156cb8757088779b390cfa727239692/Brasilien_Rio_de_Janeiro_Christo_Redentor_Statue.jpg?w=3865&h=2174&fl=progressive&q=50&fm=jpg",
-            "lat": -22.9068,
-            "lon": -43.1729
+            "countryCode": "FR",
+            "city": "Chatel-Guyon",
+            "country": "France",
+            "image":"https://www.francebleu.fr/s3/cruiser-production/2021/08/9c5d24fb-3085-4d2a-a074-cf78a75c7ba8/1200x680_024_4108873.jpg",
+            "lat": 45.9205,
+            "lon": 3.06111
         },
         {
             "date": "2023-07-30 07:00:00",
