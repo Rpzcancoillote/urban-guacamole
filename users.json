@@ -4,42 +4,42 @@
         {
             "id": "eva",
             "username": "Eva",
-            "picture": "https://randomuser.me/api/portraits/lego/0.jpg"
+            "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/eva.jpeg"
         },
         {
             "id": "gabrielle",
             "username": "Gabrielle",
-            "picture": "https://randomuser.me/api/portraits/lego/1.jpg"
+            "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/gabrielle.jpeg"
         },
         {
             "id": "marie",
             "username": "Marie",
-            "picture": "https://randomuser.me/api/portraits/lego/3.jpg"
+            "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/marie.jpeg"
         },
         {
             "id": "salome",
             "username": "Salomé",
-            "picture": "https://randomuser.me/api/portraits/lego/2.jpg"
+            "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/salome.jpeg"
         },
         {
             "id": "corentin",
             "username": "Corentin",
-            "picture": "https://randomuser.me/api/portraits/lego/4.jpg"
+            "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/corentin.jpeg"
         },
         {
             "id": "florian",
             "username": "Florian",
-            "picture": "https://randomuser.me/api/portraits/lego/5.jpg"
+            "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/florian.jpeg"
         },
         {
             "id": "julian",
             "username": "Julian",
-            "picture": "https://randomuser.me/api/portraits/lego/6.jpg"
+            "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/julian.jpeg"
         },
         {
             "id": "simon",
             "username": "Simon",
-            "picture": "https://randomuser.me/api/portraits/lego/7.jpg"
+            "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/simon.jpeg"
         }
     ]
 }
