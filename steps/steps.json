@@ -2,6 +2,7 @@
     "steps": 
     [
         {
+            "id": "step01",
             "date": "2023-07-26 07:00:00",
             "countryCode": "FR",
             "city": "Paris",
@@ -11,6 +12,7 @@
             "lon": 2.349014
         },
         {
+            "id": "step02",
             "date": "2023-07-27 07:00:00",
             "countryCode": "IT",
             "city": "Rome",
@@ -20,6 +22,7 @@
             "lon": 12.4964
         } ,
         {
+            "id": "step03",
             "date": "2023-07-28 07:00:00",
             "countryCode": "NL",
             "city": "Amsterdam",
@@ -29,6 +32,7 @@
             "lon": 4.9041
         } ,
         {
+            "id": "step04",
             "date": "2023-07-29 07:00:00",
             "countryCode": "FR",
             "city": "Chatel-Guyon",
@@ -38,6 +42,7 @@
             "lon": 3.06111
         },
         {
+            "id": "step05",
             "date": "2023-07-30 07:00:00",
             "countryCode": "FR",
             "city": "Moscou",
@@ -47,6 +52,7 @@
             "lon": 37.6173
         },
         {
+            "id": "step06",
             "date": "2023-09-10 07:00:00",
             "countryCode": "NL",
             "city": "Amsterdam",
