@@ -1,7 +1,18 @@
 {
     "scores": [
         {
-            "date": "2023-08-13 07:00:00",
+            "date": "2023-08-04 07:00:00",
+            "eva": 124,
+            "gabrielle": 74,
+            "marie": 87,
+            "salome": 26,
+            "corentin": 345,
+            "florian": 697,
+            "julian": 63,
+            "simon": 42
+        },
+        {
+            "date": "2023-08-05 07:00:00",
             "eva": 10,
             "gabrielle": 3,
             "marie": 7,
@@ -10,17 +21,6 @@
             "florian": 14,
             "julian": 8,
             "simon": 2
-        },
-        {
-            "date": "2023-08-14 07:00:00",
-            "eva": 1,
-            "gabrielle": 9,
-            "marie": 18,
-            "salome": 4,
-            "corentin": 7,
-            "florian": 5,
-            "julian": 19,
-            "simon": 4
         },
         {
             "date": "2023-08-15 07:00:00",
