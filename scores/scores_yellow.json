@@ -2,25 +2,25 @@
     "scores": [
         {
             "date": "2023-08-04 07:00:00",
-            "eva": 124,
-            "gabrielle": 74,
-            "marie": 87,
-            "salome": 26,
-            "corentin": 345,
-            "florian": 697,
-            "julian": 63,
-            "simon": 42
+            "eva": 3670,
+            "gabrielle": 4056,
+            "marie": 5678,
+            "salome": 2456,
+            "corentin": 5346,
+            "florian": 7654,
+            "julian": 3452,
+            "simon": 4200
         },
         {
             "date": "2023-08-05 07:00:00",
-            "eva": 10,
-            "gabrielle": 3,
-            "marie": 7,
-            "salome": 9,
-            "corentin": 14,
-            "florian": 14,
-            "julian": 8,
-            "simon": 2
+            "eva": 2300,
+            "gabrielle": 3245,
+            "marie": 7098,
+            "salome": 1243,
+            "corentin": 2314,
+            "florian": 2514,
+            "julian": 8763,
+            "simon": 2902
         },
         {
             "date": "2023-08-15 07:00:00",
