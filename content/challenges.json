@@ -1,79 +1,75 @@
 {
-   "challenges": [
-      {
-         "date": "2023-07-26 07:00:00",
-         "challenges": [
-            "Faire une course en sac",
-            "Imiter une célébrité pendant 5 minutes",
-            "Jouer à 'Pierre-Papier-Ciseaux' géant",
-            "Organiser une danse improvisée en groupe",
-            "Jouer à cache-cache dans un grand espace",
-            "Faire un concours de grimaces",
-            "Jouer à 'Jacques a dit' avec des mouvements décalés",
-            "Faire une bataille de chatouilles",
-            "Jouer à 'Action ou Vérité' avec des défis drôles",
-            "Organiser une course en trois jambes (deux personnes par équipe)"
-          ]
-     },
-     {
-      "date": "2023-07-27 07:00:00",
-      "challenges": [
-            "Faire une course en sac",
-            "Imiter une célébrité pendant 5 minutes",
-            "Jouer à 'Pierre-Papier-Ciseaux' géant",
-            "Organiser une danse improvisée en groupe",
-            "Jouer à cache-cache dans un grand espace",
-            "Faire un concours de grimaces",
-            "Jouer à 'Jacques a dit' avec des mouvements décalés",
-            "Faire une bataille de chatouilles",
-            "Jouer à 'Action ou Vérité' avec des défis drôles",
-            "Organiser une course en trois jambes (deux personnes par équipe)"
-         ]
+   "challenges": {
+      "weekly" : [
+         "Faire une course en sac",
+         "Imiter une célébrité pendant 5 minutes"
+      ],
+      "daily": [
+         {
+            "date": "2023-07-26 07:00:00",
+            "challenges": [
+               "Jouer à 'Pierre-Papier-Ciseaux' géant",
+               "Organiser une danse improvisée en groupe",
+               "Jouer à cache-cache dans un grand espace",
+               "Faire un concours de grimaces",
+               "Jouer à 'Jacques a dit' avec des mouvements décalés",
+               "Faire une bataille de chatouilles",
+               "Jouer à 'Action ou Vérité' avec des défis drôles",
+               "Organiser une course en trois jambes (deux personnes par équipe)"
+            ]
       },
       {
-         "date": "2023-07-28 07:00:00",
+         "date": "2023-07-27 07:00:00",
          "challenges": [
-            "Faire une course en sac",
-            "Imiter une célébrité pendant 5 minutes",
-            "Jouer à 'Pierre-Papier-Ciseaux' géant",
-            "Organiser une danse improvisée en groupe",
-            "Jouer à cache-cache dans un grand espace",
-            "Faire un concours de grimaces",
-            "Jouer à 'Jacques a dit' avec des mouvements décalés",
-            "Faire une bataille de chatouilles",
-            "Jouer à 'Action ou Vérité' avec des défis drôles",
-            "Organiser une course en trois jambes (deux personnes par équipe)"
-         ]
-      },
-      {
-         "date": "2023-07-29 07:00:00",
-         "challenges": [
-            "Faire une course en sac",
-            "Imiter une célébrité pendant 5 minutes",
-            "Jouer à 'Pierre-Papier-Ciseaux' géant",
-            "Organiser une danse improvisée en groupe",
-            "Jouer à cache-cache dans un grand espace",
-            "Faire un concours de grimaces",
-            "Jouer à 'Jacques a dit' avec des mouvements décalés",
-            "Faire une bataille de chatouilles",
-            "Jouer à 'Action ou Vérité' avec des défis drôles",
-            "Organiser une course en trois jambes (deux personnes par équipe)"
-         ]
-      },
-      {
-         "date": "2023-07-30 07:00:00",
-         "challenges": [
-            "Faire une course en sac",
-            "Imiter une célébrité pendant 5 minutes",
-            "Jouer à 'Pierre-Papier-Ciseaux' géant",
-            "Organiser une danse improvisée en groupe",
-            "Jouer à cache-cache dans un grand espace",
-            "Faire un concours de grimaces",
-            "Jouer à 'Jacques a dit' avec des mouvements décalés",
-            "Faire une bataille de chatouilles",
-            "Jouer à 'Action ou Vérité' avec des défis drôles",
-            "Organiser une course en trois jambes (deux personnes par équipe)"
-         ]
-      }  
-   ]
+               "Jouer à 'Pierre-Papier-Ciseaux' géant",
+               "Organiser une danse improvisée en groupe",
+               "Jouer à cache-cache dans un grand espace",
+               "Faire un concours de grimaces",
+               "Jouer à 'Jacques a dit' avec des mouvements décalés",
+               "Faire une bataille de chatouilles",
+               "Jouer à 'Action ou Vérité' avec des défis drôles",
+               "Organiser une course en trois jambes (deux personnes par équipe)"
+            ]
+         },
+         {
+            "date": "2023-07-28 07:00:00",
+            "challenges": [
+               "Jouer à 'Pierre-Papier-Ciseaux' géant",
+               "Organiser une danse improvisée en groupe",
+               "Jouer à cache-cache dans un grand espace",
+               "Faire un concours de grimaces",
+               "Jouer à 'Jacques a dit' avec des mouvements décalés",
+               "Faire une bataille de chatouilles",
+               "Jouer à 'Action ou Vérité' avec des défis drôles",
+               "Organiser une course en trois jambes (deux personnes par équipe)"
+            ]
+         },
+         {
+            "date": "2023-07-29 07:00:00",
+            "challenges": [
+               "Jouer à 'Pierre-Papier-Ciseaux' géant",
+               "Organiser une danse improvisée en groupe",
+               "Jouer à cache-cache dans un grand espace",
+               "Faire un concours de grimaces",
+               "Jouer à 'Jacques a dit' avec des mouvements décalés",
+               "Faire une bataille de chatouilles",
+               "Jouer à 'Action ou Vérité' avec des défis drôles",
+               "Organiser une course en trois jambes (deux personnes par équipe)"
+            ]
+         },
+         {
+            "date": "2023-07-30 07:00:00",
+            "challenges": [
+               "Jouer à 'Pierre-Papier-Ciseaux' géant",
+               "Organiser une danse improvisée en groupe",
+               "Jouer à cache-cache dans un grand espace",
+               "Faire un concours de grimaces",
+               "Jouer à 'Jacques a dit' avec des mouvements décalés",
+               "Faire une bataille de chatouilles",
+               "Jouer à 'Action ou Vérité' avec des défis drôles",
+               "Organiser une course en trois jambes (deux personnes par équipe)"
+            ]
+         }
+      ]
+   }
 }
