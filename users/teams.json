@@ -1,0 +1,145 @@
+{
+    "teams":
+    [
+        {
+            "date": "2023-07-26 07:00:00",
+            "teams": [
+                {
+                    "user01": "eva",
+                    "user02": "corentin",
+                    "color01": "#FF0000",
+                    "color02": "#00FF00"
+                },
+                {
+                    "user01": "gabrielle",
+                    "user02": "florian",
+                    "color01": "#0000FF"
+                },
+                {
+                    "user01": "marie",
+                    "user02": "julian",
+                    "color01": "#FF0000",
+                    "color02": "#FF0000"
+                },
+                {
+                    "user01": "salome",
+                    "user02": "simon",
+                    "color01": "#00FF00",
+                    "color02": "#00FF00"
+                }
+            ]
+        },
+        {
+            "date": "2023-07-27 07:00:00",
+            "teams": [
+                {
+                    "user01": "eva",
+                    "user02": "corentin",
+                    "color01": "#FF0000",
+                    "color02": "#00FF00"
+                },
+                {
+                    "user01": "gabrielle",
+                    "user02": "florian",
+                    "color01": "#0000FF"
+                },
+                {
+                    "user01": "marie",
+                    "user02": "julian",
+                    "color01": "#FF0000",
+                    "color02": "#FF0000"
+                },
+                {
+                    "user01": "salome",
+                    "user02": "simon",
+                    "color01": "#00FF00",
+                    "color02": "#00FF00"
+                }
+            ]
+        },
+        {
+            "date": "2023-07-28 07:00:00",
+            "teams": [
+                {
+                    "user01": "eva",
+                    "user02": "corentin",
+                    "color01": "#FF0000",
+                    "color02": "#00FF00"
+                },
+                {
+                    "user01": "gabrielle",
+                    "user02": "florian",
+                    "color01": "#0000FF"
+                },
+                {
+                    "user01": "marie",
+                    "user02": "julian",
+                    "color01": "#FF0000",
+                    "color02": "#FF0000"
+                },
+                {
+                    "user01": "salome",
+                    "user02": "simon",
+                    "color01": "#00FF00",
+                    "color02": "#00FF00"
+                }
+            ]
+        },
+        {
+            "date": "2023-07-29 07:00:00",
+            "teams": [
+                {
+                    "user01": "eva",
+                    "user02": "corentin",
+                    "color01": "#FF0000",
+                    "color02": "#00FF00"
+                },
+                {
+                    "user01": "gabrielle",
+                    "user02": "florian",
+                    "color01": "#0000FF"
+                },
+                {
+                    "user01": "marie",
+                    "user02": "julian",
+                    "color01": "#FF0000",
+                    "color02": "#FF0000"
+                },
+                {
+                    "user01": "salome",
+                    "user02": "simon",
+                    "color01": "#00FF00",
+                    "color02": "#00FF00"
+                }
+            ]
+        },
+        {
+            "date": "2023-07-30 07:00:00",
+            "teams": [
+                {
+                    "user01": "eva",
+                    "user02": "corentin",
+                    "color01": "#FF0000",
+                    "color02": "#00FF00"
+                },
+                {
+                    "user01": "gabrielle",
+                    "user02": "florian",
+                    "color01": "#0000FF"
+                },
+                {
+                    "user01": "marie",
+                    "user02": "julian",
+                    "color01": "#FF0000",
+                    "color02": "#FF0000"
+                },
+                {
+                    "user01": "salome",
+                    "user02": "simon",
+                    "color01": "#00FF00",
+                    "color02": "#00FF00"
+                }
+            ]
+        }
+    ]
+}

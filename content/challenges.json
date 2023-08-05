@@ -1,232 +1,79 @@
 {
-   "challenges":{
-      "screenTitle":"Règles du jeu",
-      "content":
-      [
-         {
-            "tabTitle": "Onglet 01",
-            "content": [
-               {
-                  "type":"title",
-                  "value":"Titre de ma page"
-               },
-               {
-                  "type":"text",
-                  "value":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-               },
-               {
-                  "type":"location",
-                  "latitude": 48.864716,
-                  "longitude": 2.349014
-               },
-               {
-                  "type":"link",
-                  "label": "Voir mon site",
-                  "value":"https://www.google.com"
-               },
-               {
-                  "type": "separator"
-               },
-               {
-                  "type":"text",
-                  "value":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-               },
-               {
-                  "type":"subtitle",
-                  "value":"Sous-titre de ma page"
-               },
-               {
-                  "type":"picture",
-                  "title": "Mon image",
-                  "value":"https://img.freepik.com/photos-gratuite/jetee-au-bord-lac-hallstatt-autriche_181624-44201.jpg"
-               },
-               {
-                  "type":"text",
-                  "value":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-               },
-               {
-                  "type":"carousel",
-                  "title": "Mon Carousel",
-                  "resizeMode": "contain",
-                  "value": [ "https://i0.wp.com/www.annejutras.com/wp-content/uploads/2018/01/20150730_AnneJutras_web_0044_0042.jpg?fit=1000%2C665&ssl=1", "https://www.radiofrance.fr/s3/cruiser-production/2022/06/5f6ac5ab-37d9-4ca6-8f79-3694fcfec071/1200x680_paysage-monet.jpg", "https://www.citationbonheur.fr/wp-content/uploads/2018/09/L_influence_du_paysage_sur_le_bonheur.jpg", "https://img.freepik.com/photos-gratuite/jetee-au-bord-lac-hallstatt-autriche_181624-44201.jpg"]
-               },
-               {
-                  "type": "separator"
-               },
-               {
-                  "type":"carousel",
-                  "title": "Mon Carousel",
-                  "resizeMode": "cover",
-                  "value": [ "https://i0.wp.com/www.annejutras.com/wp-content/uploads/2018/01/20150730_AnneJutras_web_0044_0042.jpg?fit=1000%2C665&ssl=1", "https://www.radiofrance.fr/s3/cruiser-production/2022/06/5f6ac5ab-37d9-4ca6-8f79-3694fcfec071/1200x680_paysage-monet.jpg", "https://www.citationbonheur.fr/wp-content/uploads/2018/09/L_influence_du_paysage_sur_le_bonheur.jpg", "https://img.freepik.com/photos-gratuite/jetee-au-bord-lac-hallstatt-autriche_181624-44201.jpg"]
-               },
-               {
-                  "type":"text",
-                  "value":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-               }
-            ]
-         },
-         {
-            "tabTitle": "Onglet 02",
-            "content": [
-               {
-                  "type":"title",
-                  "value":"Titre de ma page"
-               },
-               {
-                  "type":"subtitle",
-                  "value":"Sous-titre de ma page"
-               },
-               {
-                  "type":"text",
-                  "value":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-               },
-               {
-                  "type":"link",
-                  "value":"https://www.google.com"
-               },
-               {
-                  "type":"title",
-                  "value":"Titre de ma page"
-               },
-               {
-                  "type":"subtitle",
-                  "value":"Sous-titre de ma page"
-               },
-               {
-                  "type":"text",
-                  "value":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-               },
-               {
-                  "type":"picture",
-                  "value":"https://img.freepik.com/photos-gratuite/jetee-au-bord-lac-hallstatt-autriche_181624-44201.jpg"
-               },
-               {
-                  "type":"title",
-                  "value":"Titre de ma page"
-               },
-               {
-                  "type":"subtitle",
-                  "value":"Sous-titre de ma page"
-               },
-               {
-                  "type":"text",
-                  "value":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-               },
-               {
-                  "type":"carousel",
-                  "value": [ "https://i0.wp.com/www.annejutras.com/wp-content/uploads/2018/01/20150730_AnneJutras_web_0044_0042.jpg?fit=1000%2C665&ssl=1", "https://www.radiofrance.fr/s3/cruiser-production/2022/06/5f6ac5ab-37d9-4ca6-8f79-3694fcfec071/1200x680_paysage-monet.jpg", "https://www.citationbonheur.fr/wp-content/uploads/2018/09/L_influence_du_paysage_sur_le_bonheur.jpg", "https://img.freepik.com/photos-gratuite/jetee-au-bord-lac-hallstatt-autriche_181624-44201.jpg"]
-               }
-            ]
-         },
-         {
-            "tabTitle": "Onglet 03",
-            "content": [
-               {
-                  "type":"title",
-                  "value":"Titre de ma page"
-               },
-               {
-                  "type":"subtitle",
-                  "value":"Sous-titre de ma page"
-               },
-               {
-                  "type":"text",
-                  "value":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-               },
-               {
-                  "type":"title",
-                  "value":"Titre de ma page"
-               },
-               {
-                  "type":"subtitle",
-                  "value":"Sous-titre de ma page"
-               },
-               {
-                  "type":"text",
-                  "value":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-               },
-               {
-                  "type":"text",
-                  "value":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-               },
-               {
-                  "type":"text",
-                  "value":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-               },
-               {
-                  "type":"text",
-                  "value":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-               },
-               {
-                  "type":"title",
-                  "value":"Titre de ma page"
-               },
-               {
-                  "type":"subtitle",
-                  "value":"Sous-titre de ma page"
-               },
-               {
-                  "type":"text",
-                  "value":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-               },
-               {
-                  "type":"text",
-                  "value":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-               },
-               {
-                  "type":"text",
-                  "value":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-               },
-               {
-                  "type":"text",
-                  "value":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-               },
-               {
-                  "type":"text",
-                  "value":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-               },
-               {
-                  "type":"text",
-                  "value":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-               },
-               {
-                  "type":"link",
-                  "value":"https://www.google.com"
-               },
-               {
-                  "type":"title",
-                  "value":"Titre de ma page"
-               },
-               {
-                  "type":"subtitle",
-                  "value":"Sous-titre de ma page"
-               },
-               {
-                  "type":"text",
-                  "value":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-               },
-               {
-                  "type":"picture",
-                  "value":"https://img.freepik.com/photos-gratuite/jetee-au-bord-lac-hallstatt-autriche_181624-44201.jpg"
-               },
-               {
-                  "type":"title",
-                  "value":"Titre de ma page"
-               },
-               {
-                  "type":"subtitle",
-                  "value":"Sous-titre de ma page"
-               },
-               {
-                  "type":"text",
-                  "value":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-               },
-               {
-                  "type":"carousel",
-                  "value": [ "https://i0.wp.com/www.annejutras.com/wp-content/uploads/2018/01/20150730_AnneJutras_web_0044_0042.jpg?fit=1000%2C665&ssl=1", "https://www.radiofrance.fr/s3/cruiser-production/2022/06/5f6ac5ab-37d9-4ca6-8f79-3694fcfec071/1200x680_paysage-monet.jpg", "https://www.citationbonheur.fr/wp-content/uploads/2018/09/L_influence_du_paysage_sur_le_bonheur.jpg", "https://img.freepik.com/photos-gratuite/jetee-au-bord-lac-hallstatt-autriche_181624-44201.jpg"]
-               }
-            ]
-         }
-      ]
-   }
+   "challenges": [
+      {
+         "date": "2023-07-26 07:00:00",
+         "challenges": [
+            "Faire une course en sac",
+            "Imiter une célébrité pendant 5 minutes",
+            "Jouer à 'Pierre-Papier-Ciseaux' géant",
+            "Organiser une danse improvisée en groupe",
+            "Jouer à cache-cache dans un grand espace",
+            "Faire un concours de grimaces",
+            "Jouer à 'Jacques a dit' avec des mouvements décalés",
+            "Faire une bataille de chatouilles",
+            "Jouer à 'Action ou Vérité' avec des défis drôles",
+            "Organiser une course en trois jambes (deux personnes par équipe)"
+          ]
+     },
+     {
+      "date": "2023-07-27 07:00:00",
+      "challenges": [
+            "Faire une course en sac",
+            "Imiter une célébrité pendant 5 minutes",
+            "Jouer à 'Pierre-Papier-Ciseaux' géant",
+            "Organiser une danse improvisée en groupe",
+            "Jouer à cache-cache dans un grand espace",
+            "Faire un concours de grimaces",
+            "Jouer à 'Jacques a dit' avec des mouvements décalés",
+            "Faire une bataille de chatouilles",
+            "Jouer à 'Action ou Vérité' avec des défis drôles",
+            "Organiser une course en trois jambes (deux personnes par équipe)"
+         ]
+      },
+      {
+         "date": "2023-07-28 07:00:00",
+         "challenges": [
+            "Faire une course en sac",
+            "Imiter une célébrité pendant 5 minutes",
+            "Jouer à 'Pierre-Papier-Ciseaux' géant",
+            "Organiser une danse improvisée en groupe",
+            "Jouer à cache-cache dans un grand espace",
+            "Faire un concours de grimaces",
+            "Jouer à 'Jacques a dit' avec des mouvements décalés",
+            "Faire une bataille de chatouilles",
+            "Jouer à 'Action ou Vérité' avec des défis drôles",
+            "Organiser une course en trois jambes (deux personnes par équipe)"
+         ]
+      },
+      {
+         "date": "2023-07-29 07:00:00",
+         "challenges": [
+            "Faire une course en sac",
+            "Imiter une célébrité pendant 5 minutes",
+            "Jouer à 'Pierre-Papier-Ciseaux' géant",
+            "Organiser une danse improvisée en groupe",
+            "Jouer à cache-cache dans un grand espace",
+            "Faire un concours de grimaces",
+            "Jouer à 'Jacques a dit' avec des mouvements décalés",
+            "Faire une bataille de chatouilles",
+            "Jouer à 'Action ou Vérité' avec des défis drôles",
+            "Organiser une course en trois jambes (deux personnes par équipe)"
+         ]
+      },
+      {
+         "date": "2023-07-30 07:00:00",
+         "challenges": [
+            "Faire une course en sac",
+            "Imiter une célébrité pendant 5 minutes",
+            "Jouer à 'Pierre-Papier-Ciseaux' géant",
+            "Organiser une danse improvisée en groupe",
+            "Jouer à cache-cache dans un grand espace",
+            "Faire un concours de grimaces",
+            "Jouer à 'Jacques a dit' avec des mouvements décalés",
+            "Faire une bataille de chatouilles",
+            "Jouer à 'Action ou Vérité' avec des défis drôles",
+            "Organiser une course en trois jambes (deux personnes par équipe)"
+         ]
+      }  
+   ]
 }
