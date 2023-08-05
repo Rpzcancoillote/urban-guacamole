@@ -34,24 +34,25 @@
             "teams": [
                 {
                     "user01": "eva",
-                    "user02": "corentin",
-                    "color01": "#FF0000",
+                    "user02": "florian",
+                    "color01": "#00FF00",
                     "color02": "#00FF00"
                 },
                 {
                     "user01": "gabrielle",
-                    "user02": "florian",
-                    "color01": "#0000FF"
+                    "user02": "julian",
+                    "color01": "#00FF00",
+                    "color02": "#00FF00"
                 },
                 {
                     "user01": "marie",
-                    "user02": "julian",
-                    "color01": "#FF0000",
-                    "color02": "#FF0000"
+                    "user02": "simon",
+                    "color01": "#00FF00",
+                    "color02": "#00FF00"
                 },
                 {
                     "user01": "salome",
-                    "user02": "simon",
+                    "user02": "corentin",
                     "color01": "#00FF00",
                     "color02": "#00FF00"
                 }
