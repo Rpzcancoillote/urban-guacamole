@@ -1,7 +1,7 @@
 {
     "scores": [
         {
-            "date": "2023-03-04 07:00:00",
+            "date": "2023-08-03 07:00:00",
             "eva": 3670,
             "gabrielle": 4056,
             "marie": 5678,
@@ -12,7 +12,7 @@
             "simon": 4200
         },
         {
-            "date": "2023-03-05 07:00:00",
+            "date": "2023-08-04 07:00:00",
             "eva": 2300,
             "gabrielle": 3245,
             "marie": 7098,
@@ -23,48 +23,48 @@
             "simon": 2902
         },
         {
-            "date": "2023-03-15 07:00:00",
-            "eva": 0,
-            "gabrielle": 0,
-            "marie": 0,
-            "salome": 0,
-            "corentin": 0,
-            "florian": 0,
-            "julian": 0,
-            "simon": 0
+            "date": "2023-08-05 07:00:00",
+            "eva": 3670,
+            "gabrielle": 4056,
+            "marie": 5678,
+            "salome": 2456,
+            "corentin": 5346,
+            "florian": 7654,
+            "julian": 3452,
+            "simon": 4200
         },
         {
-            "date": "2023-03-16 07:00:00",
-            "eva": 0,
-            "gabrielle": 0,
-            "marie": 0,
-            "salome": 0,
-            "corentin": 0,
-            "florian": 0,
-            "julian": 0,
-            "simon": 0
+            "date": "2023-08-06 07:00:00",
+            "eva": 2300,
+            "gabrielle": 3245,
+            "marie": 7098,
+            "salome": 1243,
+            "corentin": 2314,
+            "florian": 2514,
+            "julian": 10000,
+            "simon": 2902
         },
         {
-            "date": "2023-09-17 07:00:00",
-            "eva": 0,
-            "gabrielle": 0,
-            "marie": 0,
-            "salome": 0,
-            "corentin": 0,
-            "florian": 0,
-            "julian": 0,
-            "simon": 0
+            "date": "2023-08-07 07:00:00",
+            "eva": 3670,
+            "gabrielle": 4056,
+            "marie": 5678,
+            "salome": 2456,
+            "corentin": 5346,
+            "florian": 7654,
+            "julian": 3452,
+            "simon": 4200
         },
         {
-            "date": "2023-09-18 07:00:00",
-            "eva": 0,
-            "gabrielle": 0,
-            "marie": 0,
-            "salome": 0,
-            "corentin": 0,
-            "florian": 0,
-            "julian": 0,
-            "simon": 0
+            "date": "2023-08-08 07:00:00",
+            "eva": 2300,
+            "gabrielle": 3245,
+            "marie": 7098,
+            "salome": 1243,
+            "corentin": 2314,
+            "florian": 2514,
+            "julian": 10000,
+            "simon": 2902
         }
     ]
 }
