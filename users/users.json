@@ -5,64 +5,80 @@
             "id": "eva",
             "username": "Eva",
             "age": 27,
-            "homeplace": "Tourcoing",
-            "stories": ["J'aime la cuisine", "Jaime les rubik's cube", "J'aime j'aime j'aime gémo"],
+            "homeplace": "Vienne",
+            "stories": [],
             "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/eva.jpg"
         },
         {
             "id": "gabrielle",
             "username": "Gabrielle",
-            "age": 27,
-            "homeplace": "Tourcoing",
-            "stories": ["J'aime la cuisine", "Jaime les rubik's cube", "J'aime j'aime j'aime gémo"],
+            "age": 29,
+            "homeplace": "Paris",
+            "stories": [
+                "Je cherche ma ceinture partout depuis plusieurs mois",
+                "Je suis allergique au caoutchouc, mais j'adore le latex",
+                "Je sais mimer l'escargot à merveille"
+            ],
             "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/gabrielle.jpg"
         },
         {
             "id": "marie",
             "username": "Marie",
             "age": 27,
-            "homeplace": "Tourcoing",
-            "stories": ["J'aime la cuisine", "Jaime les rubik's cube", "J'aime j'aime j'aime gémo"],
+            "homeplace": "Versailles",
+            "stories": [
+                "Je suis faussement rousse",
+                "Je suis supposé être drôle",
+                "J'adore transporter de la cam pendant mes expériences de stop"
+            ],
             "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/marie.jpeg"
         },
         {
             "id": "salome",
             "username": "Salomé",
             "age": 27,
-            "homeplace": "Tourcoing",
-            "stories": ["J'aime la cuisine", "Jaime les rubik's cube", "J'aime j'aime j'aime gémo"],
+            "homeplace": "Paris",
+            "stories": [],
             "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/salome.jpg"
         },
         {
             "id": "corentin",
             "username": "Corentin",
             "age": 27,
-            "homeplace": "Tourcoing",
-            "stories": ["J'aime la cuisine", "Jaime les rubik's cube", "J'aime j'aime j'aime gémo"],
+            "homeplace": "Lyon",
+            "stories": [],
             "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/corentin.jpeg"
         },
         {
             "id": "florian",
             "username": "Florian",
             "age": 27,
-            "homeplace": "Tourcoing",
-            "stories": ["J'aime la cuisine", "Jaime les rubik's cube", "J'aime j'aime j'aime gémo"],
+            "homeplace": "Beauvais",
+            "stories": [
+                "J'ai 11 orteils, dont 4 sur le pied droit.",
+                "Quoi de mieux qu'un bon chicorée-calva pour terminer son repas, hein biloute ?",
+                "J'ai a le sens de l'orientation, mais la dernière fois que je me suis perdu, c'est dans tes yeux."
+            ],
             "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/florian.jpeg"
         },
         {
             "id": "julian",
             "username": "Julian",
             "age": 27,
-            "homeplace": "Tourcoing",
-            "stories": ["J'aime la cuisine", "Jaime les rubik's cube", "J'aime j'aime j'aime gémo"],
+            "homeplace": "?",
+            "stories": [],
             "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/julian.jpeg"
         },
         {
             "id": "simon",
             "username": "Simon",
             "age": 27,
-            "homeplace": "Tourcoing",
-            "stories": ["J'aime la cuisine", "Jaime les rubik's cube", "J'aime j'aime j'aime gémo"],
+            "homeplace": "Saint-Mandé",
+            "stories": [
+                "\"J'fais du peura sur le cul ta daronne\" Musicien à mes heures perdues",
+                "Je suis champion de France de combat de sabre laser en manche à balai.",
+                "Engagé dans une association pour défendre les chiwawas rejetés par une société autocentrée sur l'apparence."
+            ],
             "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/simon.jpeg"
         }
     ]
