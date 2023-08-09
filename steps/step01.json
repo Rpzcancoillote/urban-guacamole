@@ -1,6 +1,29 @@
 {
     "step": {
         "screenTitle": "Heidelberg",
-        "content": []
+        "content": [
+            {
+                "tabTitle": "Onglet 01",
+                "content": [
+                    {
+                        "type": "title",
+                        "value": "Titre de ma page"
+                    }
+                ]
+            },
+            {
+                "tabTitle": "Onglet 02",
+                "content": [
+                    {
+                        "type": "title",
+                        "value": "Titre de ma page"
+                    },
+                    {
+                        "type": "text",
+                        "value": "Du text pour l'affichage"
+                    }
+                ]
+            }
+        ]
     }
 }

@@ -27,7 +27,7 @@
         {
             "id": "marie",
             "username": "Marie",
-            "age": 27,
+            "age": 29,
             "homeplace": "Versailles",
             "stories": [
                 "Je suis faussement rousse",
@@ -39,7 +39,7 @@
         {
             "id": "salome",
             "username": "Salomé",
-            "age": 27,
+            "age": 28,
             "homeplace": "Paris",
             "stories": [],
             "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/salome.jpeg"
@@ -47,7 +47,7 @@
         {
             "id": "corentin",
             "username": "Corentin",
-            "age": 27,
+            "age": 28,
             "homeplace": "Lyon",
             "stories": [],
             "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/corentin.jpeg"
@@ -55,7 +55,7 @@
         {
             "id": "florian",
             "username": "Florian",
-            "age": 27,
+            "age": 29,
             "homeplace": "Beauvais",
             "stories": [
                 "J'ai 11 orteils, dont 4 sur le pied droit.",
@@ -67,7 +67,7 @@
         {
             "id": "julian",
             "username": "Julian",
-            "age": 27,
+            "age": 29,
             "homeplace": "Bergerac",
             "stories": [
                 "Salut, moi c’est Prince et je suis charmant, et avec moi y’a pas d’étapes intermédiaires, c’est un direct vers la ville d’arrivée.",
@@ -79,7 +79,7 @@
         {
             "id": "simon",
             "username": "Simon",
-            "age": 27,
+            "age": 29,
             "homeplace": "Saint-Mandé",
             "stories": [
                 "\"J'fais du peura sur le cul ta daronne\" Musicien à mes heures perdues",
