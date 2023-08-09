@@ -1,0 +1,57 @@
+{
+    "example": {
+        "screenTitle": "Titre de la page", // Titre dans le header de la page
+        "content": [
+            // Tableau de contenu, chaque objet est un onglet si un seul onglet alors affichage mode normal
+            {
+                "tabTitle": "Onglet 01", // Affichage du nom de l'onglet si au moins deux onglets. Sinon pas utilisé
+                "content": [
+                    {
+                        "type": "title", // Titre de la page
+                        "value": "Titre de ma page"
+                    },
+                    {
+                        "type": "title", // Sous-titre de la page
+                        "value": "Sous-titre de ma page"
+                    },
+                    {
+                        "type": "text", // Paragraphe de texte brut (On peut ajouter de "\n" pour des sauts de ligne)
+                        "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    },
+                    {
+                        "type": "location", // Carte avec position
+                        "latitude": 48.864716,
+                        "longitude": 2.349014
+                    },
+                    {
+                        "type": "link", // Lien vers page exterieure à l'application
+                        "label": "Voir mon site", // Si label renseigné alors contenu type bouton
+                        "value": "https://www.google.com" // Lien vers lequel rediriger
+                    },
+                    {
+                        "type": "link", // Si on mets pas de label alors format lien hypertext
+                        "value": "https://www.google.com"
+                    },
+                    {
+                        "type": "separator" // Objet séparateur
+                    },
+                    {
+                        "type": "picture", // Image simple
+                        "title": "Mon image", // Titre de l'image non obligatoire
+                        "value": "https://img.freepik.com/photos-gratuite/jetee-au-bord-lac-hallstatt-autriche_181624-44201.jpg"
+                    },
+                    {
+                        "type": "carousel", // Carousel de photo
+                        "title": "Mon Carousel", // Titre du carousel non obligatoire
+                        "resizeMode": "contain", // Format des images (cover ou contain  cf CSS sur web)
+                        "value": [
+                            // Lien vers les images du carousel
+                            "https://i0.wp.com/www.annejutras.com/wp-content/uploads/2018/01/20150730_AnneJutras_web_0044_0042.jpg?fit=1000%2C665&ssl=1",
+                            "https://www.radiofrance.fr/s3/cruiser-production/2022/06/5f6ac5ab-37d9-4ca6-8f79-3694fcfec071/1200x680_paysage-monet.jpg"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,6 +1,5 @@
 {
-    "steps": 
-    [
+    "steps": [
         {
             "id": "step01",
             "date": "2023-08-13 07:00:00",
@@ -8,7 +7,7 @@
             "city": "Heidelberg",
             "country": "Allemagne",
             "image": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/steps/step01.jpeg",
-            "lat": 49.398750,
+            "lat": 49.39875,
             "lon": 8.672434
         },
         {
@@ -17,7 +16,7 @@
             "countryCode": "",
             "city": "",
             "country": "",
-            "image":"",
+            "image": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/steps/step02.jpeg",
             "lat": 0,
             "lon": 0
         },
@@ -27,7 +26,7 @@
             "countryCode": "",
             "city": "",
             "country": "",
-            "image":"",
+            "image": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/steps/step03.jpeg",
             "lat": 0,
             "lon": 0
         },
@@ -37,7 +36,7 @@
             "countryCode": "",
             "city": "",
             "country": "",
-            "image":"",
+            "image": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/steps/step04.jpeg",
             "lat": 0,
             "lon": 0
         },
@@ -47,7 +46,7 @@
             "countryCode": "",
             "city": "",
             "country": "",
-            "image":"",
+            "image": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/steps/step05.jpeg",
             "lat": 0,
             "lon": 0
         },
@@ -57,7 +56,7 @@
             "countryCode": "",
             "city": "",
             "country": "",
-            "image":"",
+            "image": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/steps/step06.jpeg",
             "lat": 0,
             "lon": 0
         }
