@@ -14,7 +14,7 @@
             "id": "step02",
             "date": "2022-08-14 07:00:00",
             "countryCode": "DE",
-            "city": "Frankfurt am Main ",
+            "city": "Frankfurt",
             "country": "Allemagne",
             "image": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/steps/step02.jpg",
             "lat": 50.1109221,
