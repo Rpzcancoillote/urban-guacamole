@@ -7,9 +7,59 @@
             "countryCode": "DE",
             "city": "Heidelberg",
             "country": "Allemagne",
-            "image":"https://a.cdn-hotels.com/gdcs/production85/d1406/ffebe0ad-d598-420e-8d78-e036f36fcd67.jpg",
+            "image": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/steps/step01.jpeg",
             "lat": 49.398750,
             "lon": 8.672434
+        },
+        {
+            "id": "step02",
+            "date": "2023-08-14 07:00:00",
+            "countryCode": "",
+            "city": "",
+            "country": "",
+            "image":"",
+            "lat": 0,
+            "lon": 0
+        },
+        {
+            "id": "step03",
+            "date": "2023-08-15 07:00:00",
+            "countryCode": "",
+            "city": "",
+            "country": "",
+            "image":"",
+            "lat": 0,
+            "lon": 0
+        },
+        {
+            "id": "step04",
+            "date": "2023-08-16 07:00:00",
+            "countryCode": "",
+            "city": "",
+            "country": "",
+            "image":"",
+            "lat": 0,
+            "lon": 0
+        },
+        {
+            "id": "step05",
+            "date": "2023-08-17 07:00:00",
+            "countryCode": "",
+            "city": "",
+            "country": "",
+            "image":"",
+            "lat": 0,
+            "lon": 0
+        },
+        {
+            "id": "step06",
+            "date": "2023-08-18 07:00:00",
+            "countryCode": "",
+            "city": "",
+            "country": "",
+            "image":"",
+            "lat": 0,
+            "lon": 0
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "polygons": [
         {
-            "step": "Heidelberg",
+            "step": "step01",
             "coordinates": [
                [
                   [
@@ -3909,6 +3909,36 @@
                8.7940496,
                49.4596927
             ]
+        },
+        {
+            "step": "step02",
+            "coordinates": [],
+            "type": "Polygon",
+            "bbox":[]
+        },
+        {
+            "step": "step03",
+            "coordinates": [],
+            "type": "Polygon",
+            "bbox":[]
+        },
+        {
+            "step": "step04",
+            "coordinates": [],
+            "type": "Polygon",
+            "bbox":[]
+        },
+        {
+            "step": "step05",
+            "coordinates": [],
+            "type": "Polygon",
+            "bbox":[]
+        },
+        {
+            "step": "step06",
+            "coordinates": [],
+            "type": "Polygon",
+            "bbox":[]
         }
     ]
 }
