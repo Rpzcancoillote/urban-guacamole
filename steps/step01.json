@@ -3,11 +3,15 @@
         "screenTitle": "Heidelberg",
         "content": [
             {
-                "tabTitle": "Onglet 01",
+                "tabTitle": "Wiki",
                 "content": [
                     {
                         "type": "title",
-                        "value": "Titre de ma page"
+                        "value": "Quelques infos sur Heidelberg"
+                    },
+                    {
+                        "type": "text",
+                        "value": "Heidelberg (prononcé en allemand : /ˈhaɪdəlbɛʁk/ Écouter) est une ville située sur les deux rives du Neckar, dans le Land de Bade-Wurtemberg au sud-ouest de l'Allemagne. Elle fait partie de la région densément peuplée de l'aire urbaine Rhin-Neckar. L'ancienne capitale du palatinat du Rhin est la cinquième ville du Land par sa population, après Stuttgart, Mannheim, Karlsruhe et Fribourg-en-Brisgau.La ville est une destination touristique, connue pour son château et comme haut-lieu du romantisme qui a inspiré de nombreux poètes. C'est aussi une ville universitaire ; l'université de Heidelberg, fondée en 1386, compte en 2010 environ 28 000 étudiants, dont 18,5 % d'étudiants étrangers. Heidelberg a été l'un des foyers de la réforme protestante et a accueilli Martin Luther en 1518. Cette ville a aussi donné son nom à l'Homo heidelbergensis, ancêtre de l'homme de Néandertal, découvert en 1907 dans la région. En outre, l'armée de terre des États-Unis est implantée à Heidelberg dans une base militaire depuis 1951. "
                     }
                 ]
             },
