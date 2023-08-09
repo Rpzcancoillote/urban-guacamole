@@ -1,6 +1,5 @@
 {
-    "users": 
-        [
+    "users": [
         {
             "id": "eva",
             "username": "Eva",
@@ -19,7 +18,7 @@
                 "Je suis allergique au caoutchouc, mais j'adore le latex",
                 "Je sais mimer l'escargot à merveille"
             ],
-            "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/gabrielle.jpg"
+            "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/gabrielle.jpeg"
         },
         {
             "id": "marie",
@@ -28,7 +27,7 @@
             "homeplace": "Versailles",
             "stories": [
                 "Je suis faussement rousse",
-                "Je suis supposé être drôle",
+                "Je suis supposée être drôle",
                 "J'adore transporter de la cam pendant mes expériences de stop"
             ],
             "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/marie.jpeg"
