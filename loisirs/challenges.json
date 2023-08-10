@@ -3,13 +3,13 @@
 		"weekly":
 		[
 			{
-				"value":"1"				
+				"challenges": ["1"]			
 			},
 			{
-				"value":"2"				
+				"challenges": ["2"]				
 			},
 			{
-				"value":"2"				
+				"value":"3"				
 			}
 		],
         "daily": [
