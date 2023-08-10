@@ -1,6 +1,15 @@
 {
     "challenges": {
-        "weekly": ["Mettre les défis de la semaine ici, une ligne = un défi"],
+        "weekly": [
+			{
+				"type": "title",
+				"value": "Défis illimités"
+			},
+			{
+				"type": "text",
+				"value": "Faire le plus de ces challenges chaque jour : \n\n - Vidéo d'un allemand casquetté disant 'Bienvenue à ‘nom des binomes’ dans la ville de ‘nom de la ville d’étape’ en allemand \n\n - Selfie saucisse \n\n - Selfie animal insolite \n\n Un Classement quotidien sera réalisé, le binome avec le plus de point remportera X; X; X; X"
+			}
+		],
         "daily": [
             {
                 "date": "2023-08-14 07:00:00",
