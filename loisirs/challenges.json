@@ -2,11 +2,11 @@
     "challenges": {
 		"weekly":[
 			{
-				"type": "text",
+				"type": "title",
 				"value": "Quelques infos sur AAA"
 			},
 			{
-				"type": "text",				
+				"type": "title",				
 				"value": "Quelques infos sur BBB"				
 			}
 		],
