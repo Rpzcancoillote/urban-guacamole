@@ -8,16 +8,16 @@
                     {
                         "type": "title",
                         "value": "Quelques infos sur Wurtzburg"
-                    },
-                    {
-                        "type": "picture", 
-                        "title": "Blason de la ville", // Titre de l'image non obligatoire
-                        "value": "https://fr.wikipedia.org/wiki/Wurtzbourg#/media/Fichier:DEU_W%C3%BCrzburg_COA.svg"
-                    },					
+                    },				
                     {
                         "type": "text",
                         "value": "Wurtzbourg1 ou Würzburg (orthographe allemande, courante également en français2, /ˈvʏɐ̯tsbʊɐ̯k/) est une ville dans le Land allemand de Bavière.\n\nLa ville est la capitale du district de Basse-Franconie et le chef-lieu de l'arrondissement de Wurtzbourg. Wurtzbourg est également le centre économique, universitaire et culturel de la région de « Franconie du Main » et du vignoble de Franconie. Aujourd'hui, la ville compte environ 130 000 habitants. Wurtzbourg est située sur le Main et est le point de départ septentrional de la Route romantique. La résidence de Wurtzbourg est classée depuis 1981 sur la liste du patrimoine mondial de l'Unesco.\n\nEn 1973, elle est lauréate du prix de l'Europe."
-                    }
+                    },
+                    {
+                        "type": "picture", 
+                        "title": "Blason de la ville",
+                        "value": "https://fr.wikipedia.org/wiki/Wurtzbourg#/media/Fichier:DEU_W%C3%BCrzburg_COA.svg"
+                    }	
                 ]
             },
             {

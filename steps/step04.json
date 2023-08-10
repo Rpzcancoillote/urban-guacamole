@@ -8,15 +8,15 @@
                     {
                         "type": "title",
                         "value": "Quelques infos sur Nuremberg"
-                    },
-                    {
-                        "type": "picture", 
-                        "title": "Blason de la ville", // Titre de l'image non obligatoire
-                        "value": "https://fr.wikipedia.org/wiki/Nuremberg#/media/Fichier:DEU_N%C3%BCrnberg_COA_(klein).svg"
-                    },					
+                    },			
                     {
                         "type": "text",
                         "value": "Nuremberg (prononcé : /nyʁɛ̃bɛʁ/1 ; en allemand : Nürnberg, /ˈnʏɐ̯nbɛɐ̯k/) est une ville de Bavière, en Allemagne. Avec 542 544 habitants en octobre 20223, c'est la deuxième ville de Bavière après Munich. Elle est le centre économique du district de Moyenne-Franconie et l'un des principaux centres industriels d'Allemagne du Sud. La rivière Pegnitz sépare la vieille ville en deux quartiers, celui de Sebald et celui de Lorenz, nommés d'après les deux principales églises de Nuremberg.\n \n Son charme de ville pittoresque et médiévale, malgré sa modernité sur les plans économique, industriel et technologique, en fait une métropole culturelle majeure d'Allemagne."
+                    },
+                    {
+                        "type": "picture", 
+                        "title": "Blason de la ville",
+                        "value": "https://fr.wikipedia.org/wiki/Nuremberg#/media/Fichier:DEU_N%C3%BCrnberg_COA_(klein).svg"
                     }
                 ]
             },
