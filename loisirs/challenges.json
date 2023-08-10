@@ -6,6 +6,10 @@
 				"value": "Quelques infos sur AAA"
 			},
 			{
+				"type": "title",
+				"value": "Quelques infos sur AAA"
+			},			
+			{
 				"type": "title",				
 				"value": "Quelques infos sur BBB"				
 			}
