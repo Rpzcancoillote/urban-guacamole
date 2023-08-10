@@ -39,7 +39,39 @@
             },
             {
                 "tabTitle": "Défis",
-                "content": []
+                "content": [                    {
+                        "type": "title",
+                        "value": "Défis obligatoires"
+                    },
+                    {
+                        "type": "text",
+                        "value": "Les défis obligatoires devront être réalisés par les binômes à chaque étape de la compétition. La date et l'heure de la preuve photo selfie permettront d'établir un classement des binômes pour chaque défi.\n\n- 1er binôme : 8 points\n\n- 2ème binôme : 6 points\n\n- 3ème binôme : 4 points\n\n- 4ème binôme : 2 points"
+                    },
+					{
+                        "type": "title",
+                        "value": "Défis défis optionnels"
+                    },
+                    {
+                        "type": "text",
+                        "value": "Les défis optionnels permettront aux binômes de marquer des points supplémentaires. La date et l'heure de la preuve photo selfie permettront d'établir un classement des binômes pour chaque défi.\n\n + 2 points par binôme (par défi validé)"
+                    },
+					{
+                        "type": "title",
+                        "value": "Défis illimités"
+                    },
+                    {
+                        "type": "text",
+                        "value": "Vidéo d'un allemand casquetté disant 'Bienvenue à ‘nom des binomes’ dans la ville de ‘nom de la ville d’étape’ en allemand \n\nSelfie saucisse\n\nSelfie animal insolite \n\n"
+                    },
+					{
+                        "type": "title",
+                        "value": "Epreuves insolites du Barystop#2"
+                    },
+                    {
+                        "type": "text",
+                        "value": "Vous devrez envoyer par messenger à Lucie au cours de la semaine, les réponses à l'épreuve insolite à Lucie.\n\n Attention une seul réponse par personne et par épreuve. \n\n L'histoire la plus insolite d'un conducteur \n\n La photo la plus insolite. \n\n Jury de ces deux concours : Lucie. (Vote en fin de compétition, photos à envoyer le dernier jour)"
+                    }
+				]
             }
         ]
     }
