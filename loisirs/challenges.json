@@ -3,11 +3,9 @@
 		"weekly":
 		[
 			{
-				"type": "text",
 				"value":"1"				
 			},
 			{
-				"type": "text",
 				"value":"2"				
 			}
 		],
