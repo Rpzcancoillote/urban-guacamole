@@ -1,7 +1,12 @@
 {
     "challenges": {
-        "weekly":["Mettre les défis de la semaine ici, une ligne = un défi"],
-		"weekly":["222"],
+		"weekly":
+		[
+            {
+                "challenges": ["1"],
+                "challenges": ["2"]
+            }
+		],
         "daily": [
             {
                 "date": "2022-08-14 07:00:00",
