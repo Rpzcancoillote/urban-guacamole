@@ -56,14 +56,6 @@
                         "type": "text",
                         "value": "Les défis optionnels permettront aux binômes de marquer des points supplémentaires. La date et l'heure de la preuve photo selfie permettront d'établir un classement des binômes pour chaque défi.\n\n + 2 points par binôme (par défi validé)"
                     }
-					{
-                        "type": "title",
-                        "value": "Défis illimités"
-                    },
-                    {
-                        "type": "text",
-                        "value": "Vidéo d'un allemand casquetté disant 'Bienvenue à ‘nom des binomes’ dans la ville de ‘nom de la ville d’étape’ en allemand \n\nSelfie saucisse\n\nSelfie animal insolite \n\n"
-                    }
 				]
             }
         ]
