@@ -8,16 +8,16 @@
                     {
                         "type": "title",
                         "value": "Quelques infos sur Regensburg"
-                    },
-                    {
-                        "type": "picture", 
-                        "title": "Blason de la ville", // Titre de l'image non obligatoire
-                        "value": "https://fr.wikipedia.org/wiki/Ratisbonne#/media/Fichier:Wappen_Regensburg.svg"
                     },						
                     {
                         "type": "text",
                         "value": "Ratisbonne (en allemand : Regensburg) est une ville allemande, située dans le Land de Bavière et baignée par le Danube. Elle est située à 88 kilomètres de Nuremberg et à 103 kilomètres de Munich, proche de la République tchèque. La ville est le chef-lieu du district du Haut-Palatinat et de l'arrondissement de Ratisbonne.\n\nAu 31 décembre 2021, la ville comptait 153 542 habitants1. Elle est ainsi, par le nombre d'habitants, la quatrième ville de Bavière après Munich, Nuremberg et Augsbourg.\n\nDepuis le 13 juillet 20062, la vieille ville médiévale de Ratisbonne ainsi que le quartier de Stadtamhof sont inscrits sur la liste du patrimoine mondial de l'UNESCO. La ville est le siège d'un évêché catholique. Au Moyen Âge, par sa situation géographique, la cité possédait un rôle important dans les échanges commerciaux entre l'Italie, la Bohême, la Russie et Byzance. Elle était lieu de rencontre de nombreuses civilisations et fut très marquée par l'influence des patriciens, dont les tours d'habitation (les plus hautes au nord des Alpes) sont encore visibles aujourd'hui.\n\nDe nos jours, la ville est très orientée vers l'industrie manufacturière (construction automobile, génie mécanique, électrotechnique, microélectronique) et le taux de chômage (2,1 % en décembre 2017)3 se situe légèrement en dessous du niveau régional (2,9 % à la même période)4. "
-                    }
+                    },
+                    {
+                        "type": "picture", 
+                        "title": "Blason de la ville",
+                        "value": "https://fr.wikipedia.org/wiki/Ratisbonne#/media/Fichier:Wappen_Regensburg.svg"
+                    },
                 ]
             },
             {

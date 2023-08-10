@@ -8,16 +8,16 @@
                     {
                         "type": "title",
                         "value": "Quelques infos sur München"
-                    },
-                    {
-                        "type": "picture", 
-                        "title": "Blason de la ville", // Titre de l'image non obligatoire
-                        "value": "https://fr.wikipedia.org/wiki/Munich#/media/Fichier:DEU_M%C3%BCnchen_COA.svg"
-                    },						
+                    },		
                     {
                         "type": "text",
                         "value": "Munich (prononcé en français /my.nik/1 ; en allemand : München /ˈmʏnçn̩/; en bavarois : Minga /ˈmɪŋ(ː)ə/ ) est une ville allemande, capitale du Land de Bavière. Avec 1 590 859 habitants intra-muros au 30 avril 20233 et 2 351 706 habitants dans son aire urbaine4, elle est la troisième ville au niveau national par la population après Berlin et Hambourg. La Région métropolitaine de Munich, qui englobe également Augsbourg et Ingolstadt, compte quant à elle plus de cinq millions d'habitants5. Traversée par l'Isar, affluent du Danube, elle se situe dans le district de Haute-Bavière, non loin des Préalpes bavaroises.\n\nLe nom de la ville provient du vieux haut allemand Munichen (« par les moines », cf. allemand standard moderne Mönchen, datif pluriel de Mönch [archive] « moine »), en raison de la présence d'un monastère bénédictin à l'emplacement actuel de la vieille ville ; l'héraldique fait par ailleurs figurer un moine6. Mentionnée pour la première fois en 11587, Munich devient la ville de résidence des ducs de Bavière en 1255 et de l'empereur romain germanique Louis IV. En 1506, après deux siècles de division, les principautés s'unifient pour former la Bavière. Ville catholique — ce dont témoigne la cathédrale Notre-Dame, principal édifice religieux de la ville —, elle est l'un des foyers de la Contre-Réforme. Devenue capitale de l'électorat de Bavière (1623) puis du royaume de Bavière (1805), elle devient un des principaux centres culturels, artistiques et scientifiques allemands au XIXe siècle, sous l'impulsion du roi Louis II.\n\nAu cours du XXe siècle, Munich connaît un important développement industriel, devenant le premier pôle économique de la République fédérale allemande (1949 – 1990) puis de l'Allemagne réunifiée. Elle accueille notamment le siège de grandes sociétés comme Siemens, Allianz, BMW, Munich Re, Linde, Infineon, MAN, Airbus Deutschland et HypoVereinsbank. Selon Eurostat, la zone urbaine élargie de la région métropolitaine de Munich est la plus importante d'Allemagne en ce qui concerne le PIB avec 117,6 milliards d'euros, devant Hambourg, Berlin et Francfort8. Avec un PIB par habitant de 53 073 euros, Munich est également l'une des villes les plus riches de l'Union européenne4. La ville est un centre mondial d’art, de science, de technologie, de finance, d’édition, de culture, d’innovation, d’éducation, de commerce et de tourisme9. Réputée être l'une des villes les plus agréables à vivre au monde, elle jouit d’un très haut niveau de vie et de qualité de vie : elle est la première en Allemagne et la troisième au monde selon le Mercer.\n\nDeuxième destination touristique d'Allemagne après Berlin11, Munich est célèbre pour sa traditionnelle fête de la bière, l’Oktoberfest, qui se déroule chaque année de fin septembre à début octobre. Outre la cathédrale, la ville a également un important patrimoine historique, composé notamment du château de Nymphenbourg, de très nombreux musées richement dotés et de deux vastes jardins, le Hofgarten et le Englischer Garten (jardin anglais). Munich accueille de nombreux évènements internationaux, dont les Jeux olympiques d'été de 1972, qui furent le théâtre d'une sanglante prise d'otages. Enfin, elle est le lieu de résidence de l'un des principaux clubs de football d'Europe, le Bayern Munich, qui joue dans l'Allianz Arena, au nord du centre-ville. "
-                    }
+                    },
+                    {
+                        "type": "picture", 
+                        "title": "Blason de la ville",
+                        "value": "https://fr.wikipedia.org/wiki/Munich#/media/Fichier:DEU_M%C3%BCnchen_COA.svg"
+                    },				
                 ]
             },
             {
