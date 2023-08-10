@@ -38,17 +38,8 @@
                 ]
             },
             {
-                "tabTitle": "Défis",
-                "content": [                    
-					{
-                        "type": "title",
-                        "value": "Défis obligatoires"
-                    },
-                    {
-                        "type": "text",
-                        "value": "Les défis obligatoires devront être réalisés par les binômes à chaque étape de la compétition. La date et l'heure de la preuve photo selfie permettront d'établir un classement des binômes pour chaque défi.\n\n- 1er binôme : 8 points\n\n- 2ème binôme : 6 points\n\n- 3ème binôme : 4 points\n\n- 4ème binôme : 2 points"
-                    }
-				]
+                "tabTitle": "Défis1",
+                "content": []
             }
         ]
     }
