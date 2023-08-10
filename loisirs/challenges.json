@@ -2,13 +2,10 @@
     "challenges": {
 		"weekly":[
 			{
-				"challenges": "Quelques infos sur AAA"
-			},
+				"title": "Quelques infos sur AAA"
+			},	
 			{
-				"challenges": "Quelques infos sur AAA"
-			},			
-			{
-				"challenges": "Quelques infos sur AAA"				
+				"title": "Quelques infos sur AAA"				
 			}
 		],
         "daily": [
