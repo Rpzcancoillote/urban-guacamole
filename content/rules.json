@@ -40,36 +40,7 @@
             {
                 "tabTitle": "Défis",
                 "content": [
-                    {
-                        "type": "title",
-                        "value": "Classement maillot jaune : Le plus rapide à rejoindre les destinations !"
-                    },
-                    {
-                        "type": "text",
-                        "value": "Ce classement comptabilise le temps que chaque Barystopeur prendra pour rallier la ville de départ à la ville d’arrivée.\n\nMais dis moi Jamy, comment gagner le maillot jaune ? \nEn arrivant le plus rapidement possible dans la ville de destination de chaque étape. \n\nChaque binôme devra quotidiennement prendre une capture d'écran de sa géolocalisation via l'outil Pin's (en bas à gauche) de l'application Barystop dès l'arrivée dans la ville de destination et la partager sur Messenger.\n\nLa date et l'heure permettront d'établir un classement des binômes. Il ne devra pas y avoir un gros delta entre l’heure d’arrivée et l’envoi du screenshot sur messenger.\n L’addition des temps cumulés sur chaque étape permettra d’établir un classement du plus au moins rapide."
-                    },
-                    {
-                        "type": "separator"
-                    },
-                    {
-                        "type": "title",
-                        "value": "Classement maillot vert : Avoir le plus de points possible grâce aux défis !" 
-                    },
-                    {
-                        "type": "text",
-                        "value": "Ce classement comptabilise les points obtenus liés à la réussite des défis. (précisés dans la rubrique défis)e classement additionnera les points de chaque étape.\n \n Comment marquer des points ? \n\n 1/ En réalisant les défis quotidiens des étapes du Barystop (onglet 'Défis' de l’application)\n Plusieurs défis sont proposés chaque jour. Chaque défi doit être justifié par une preuve photo selfie, partagée sur Messenger.  La date et l'heure de la preuve photo selfie permettront d'établir un classement des binômes pour chaque défi. \n \n 2/ En réalisant les défis illimités sur la semaine  \n \n 3/ En participant aux épreuves insolites du Barystop#2"
-                    },
-                    {
-                        "type": "separator"
-                    },
-                    {
-                        "type": "title",
-                        "value": "Classement maillot à pois : Etre aussi forte en grimpette qu'en descente de bière!"
-                    },
-                    {
-                        "type": "text",						
-                        "value": "Ce classement récompense le nombre de voitures dans lequelle un barystopeur est grimpé. Ce classement additionnera le nombre de voitures grimpées de chaque étape.\n Deux preuves seront nécessaires en fin de journée :  \n \n 1 - Une photo avec le conducteur ou avec la voiture ou une anecdote\n \n 2 - Une signature dans le carnet du binome!\n Une voiture est considérée comme grimpée lorsque les membres de l’équipe ont tous intégré la voiture et ont parcouru une distance minimale de 500m !\n \n Bonus : \n- Poids lourds : 2 points \n- Camping-car : 3 points\n- Ambulance : 5 points\n- Police : 5 points"
-                    }		
+	
 				]
             }
         ]
