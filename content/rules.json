@@ -62,7 +62,7 @@
                     },
                     {
                         "type": "text",
-                        "value": "Vidéo d'un allemand casquetté disant 'Bienvenue à ‘nom des binomes’ dans la ville de ‘nom de la ville d’étape’ en allemand \n\nSelfie saucisse \n\nSelfie animal insolite"
+                        "value": "Vidéo d'un allemand casquetté disant 'Bienvenue à ‘nom des binomes’ dans la ville de ‘nom de la ville d’étape’ en allemand \n\n - Selfie saucisse \n\n- Selfie animal insolite"
                     },
 					{
                         "type": "title",
@@ -70,7 +70,7 @@
                     },
                     {
                         "type": "text",
-                        "value": "Vous devrez envoyer par messenger à Lucie au cours de la semaine, les réponses à l'épreuve insolite à Lucie.\n\n Attention une seul réponse par personne et par épreuve. \n\n L'histoire la plus insolite d'un conducteur \n\n La photo la plus insolite. \n\n Jury de ces deux concours : Lucie. (Vote en fin de compétition, photos à envoyer le dernier jour)"
+                        "value": "Les épreuves insolites consistent en des épreuves unique à réaliser durant la semaine. \n\nVous devrez envoyer par messenger à Lucie au cours de la semaine, les réponses à l'épreuve insolite à Lucie.\n\n Attention une seul réponse par personne et par épreuve. \n\n - L'histoire la plus insolite raconté par un conducteur \n\n - La photo la plus insolite. \n\n Jury de ces deux concours : Lucie. (Vote en fin de compétition, photos à envoyer avant le dernier jour)"
                     }
 				]
             }
