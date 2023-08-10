@@ -2,10 +2,14 @@
     "challenges": {
 		"weekly":
 		[
-            {
-                "challenges": ["1"],
-                "challenges": ["2"]
-            }
+			{
+				"type": "text",
+				"value":"1"				
+			},
+			{
+				"type": "text",
+				"value":"2"				
+			}
 		],
         "daily": [
             {
