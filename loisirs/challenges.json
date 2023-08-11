@@ -1,23 +1,10 @@
 {
     "challenges": {
-		"weekly":[
-			{
-				"type": "title",
-				"value": "Quelques infos sur AAA"
-			},
-			{
-				"type": "title",
-				"value": "Quelques infos sur AAA"
-			},			
-			{
-				"type": "title",				
-				"value": "Quelques infos sur BBB"				
-			}
-		],
+		"weekly":["aaa","bbb"],
         "daily": [
             {
                 "date": "2022-08-14 07:00:00",
-                "challenges": ["Mettre les défis du jour ici, une ligne = un défi"]
+                "challenges": ["aa","bb"]
             },
             {
                 "date": "2022-08-15 07:00:00",
