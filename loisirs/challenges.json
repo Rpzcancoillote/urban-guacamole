@@ -1,26 +1,42 @@
 {
     "challenges": {
-		"weekly":["aaa","bbb"],
+        "weekly": ["aaa", "bbb"],
         "daily": [
             {
                 "date": "2022-08-14 07:00:00",
-                "challenges": ["aa","bb"]
+                "challenges": [{ "value": "TOTO" }]
             },
             {
                 "date": "2022-08-15 07:00:00",
-                "challenges": ["[OBG] Ou est Lucie?","[OBG] Reproduire le selfie : sigle €","[OBG] Selfie devant l'auberge de jeunesse","[FAC] Selfie devant la verrière du Palmengarten","[FAC]Selfie sur l'eiserner Steg","[FAC] Selfie devant la statue de Goethe en bronze"]
+                "challenges": [
+                    {
+                        "value": "[OBG] Ou est Lucie?",
+                        "picture": "https://live.staticflickr.com/8619/16315832698_e809b962af_b.jpg"
+                    },
+                    { "value": "[OBG] Reproduire le selfie : sigle €" },
+                    { "value": "[OBG] Selfie devant l'auberge de jeunesse" },
+                    { "value": "[FAC] Selfie devant la verrière du Palmengarten" },
+                    { "value": "[FAC]Selfie sur l'eiserner Steg" },
+                    { "value": "[FAC] Selfie devant la statue de Goethe en bronze" }
+                ]
             },
             {
                 "date": "2022-08-16 07:00:00",
-                "challenges": ["Mettre les défis du jour ici, une ligne = un défi"]
+                "challenges": []
             },
             {
                 "date": "2022-08-17 07:00:00",
-                "challenges": ["Mettre les défis du jour ici, une ligne = un défi"]
+                "challenges": []
             },
             {
                 "date": "2022-08-18 07:00:00",
-                "challenges": ["Mettre les défis du jour ici, une ligne = un défi"]
+                "challenges": [
+                    { "value": "Mettre les défis du jour ici, une ligne = un défi" },
+                    {
+                        "value": "Mettre les défis du jour ici, une ligne = un défi",
+                        "picture": "https://live.staticflickr.com/8619/16315832698_e809b962af_b.jpg"
+                    }
+                ]
             }
         ]
     }
