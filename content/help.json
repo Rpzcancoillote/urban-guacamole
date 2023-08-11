@@ -24,7 +24,17 @@
                     },
                     {
                         "type": "text",
-                        "value": "FR --> DE \n\nLe eszett 'ß' se lit [ss].\n'Straße' = 'se lit donc Strasse'\n Il peut avoir cette forme sur les panneaux : ʒ"
+                        "value": "Salut petit barystoppeur !\n\nSi tu viens sur cette page, c'est soit que tu es un petit curieux (et tu as bien raison. Comme disait un certain philosophe français, la curiosité dynamise l'esprit humain), soit que cela fait maintenant plusieurs heures que tu attends au bord de la route, espérant, priant, suppliant les conducteurs de s'arrêter pour t'emmener en direction de ta destination.\nQue ce soit pour l'une ou l'autre de ces raisons, sache que tu trouveras sur cette page quelques rudiments linguistiques qui pourront (peut-être) t'aider à établir un contact de qualité avec tes (futurs ?) conducteurs.\n\n\nA utiliser sans modération cher barystoppeur ! Enjoy !\n\nLe eszett 'ß' se lit [ss].\n'Straße' = 'se lit donc Strasse'\n Il peut avoir cette forme sur les panneaux : ʒ"
+                    },
+                    {
+                        "type": "carousel",
+                        "title": "", 
+                        "resizeMode": "contain",
+                        "value": [
+                            "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/Help/Voc1.jpg",
+                            "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/Help/Voc2.jpg",
+                            "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/Help/Voc3.jpg"
+                        ]
                     }
                 ]
             }
