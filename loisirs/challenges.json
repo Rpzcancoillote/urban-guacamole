@@ -2,9 +2,17 @@
     "challenges": {
         "weekly": [
             
-            { "value": "[Défi illimité]Vidéo d'un allemand casquetté disant 'Bienvenue à ‘nom des binomes’ dans la ville de ‘nom de la ville d’étape’ en allemand" },
-            { "value": "[Défi illimité] Selfie saucisse" },
-            { "value": "[Défi illimité] Selfie avec un animal insolite" },
+            { 
+                "value": "[Défi illimité]Vidéo d'une personne casquetté/chapeauté disant 'Bienvenue à ‘nom des binomes’ dans la ville de ‘nom de la ville d’étape’ en allemand",
+                "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/steps/allemand.jpg"
+            },
+            { 
+                "value": "[Défi illimité] Selfie saucisse",
+                "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/steps/saucisse.jpg"
+            },
+            { "value": "[Défi illimité] Selfie avec un animal insolite",
+            "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/steps/insolite.jpg"
+            },
             {"value": "[Epreuve insolite] L'histoire la plus insolite raconté par un conducteur | Défi individuel unique| Réponse à envoyer à LULU | "},
             { "value": "[Epreuve insolite] La photo la plus insolite | Défi individuel unique| Réponse à envoyer à LULU " }
         ],
