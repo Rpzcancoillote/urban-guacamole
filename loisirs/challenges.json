@@ -13,16 +13,17 @@
                 "challenges": [
                     {
                         "value": "[Obligatoire] Ou est Lucie?",
-                        "picture": "https://live.staticflickr.com/8619/16315832698_e809b962af_b.jpg"
+                        "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/steps/Lucie.jpg"
                     },
                     { 
                         "value": "[Obligatoire] Reproduire le selfie du jour", 
-                        "picture": "https://live.staticflickr.com/8619/16315832698_e809b962af_b.jpg"
+                        "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/steps/Frankfurt-selfie.jpg"
                     },
                     { 
                         "value": "[Obligatoire] Selfie devant l'auberge de jeunesse", 
-                        "picture": "https://live.staticflickr.com/8619/16315832698_e809b962af_b.jpg"
+                        "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/steps/Frankfurt-hostel.jpg"
                     },
+                    { "value": "[Facultatif] Selfie devant la maison de Goethe" },
                     { "value": "[Facultatif] Selfie devant la verrière du Palmengarten" },
                     { "value": "[Facultatif]Selfie sur l'eiserner Steg" },
                     { "value": "[Facultatif] Selfie devant la statue de Goethe en bronze" }
@@ -32,12 +33,12 @@
                 "date": "2022-08-15 07:00:00",
                 "challenges": [
                     { 
-                        "value": "[Obligatoire] Reproduire le selfie du jour", 
-                        "picture": "https://live.staticflickr.com/8619/16315832698_e809b962af_b.jpg"
+                        "value": "[Obligatoire] Reproduire la photo du jour", 
+                        "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/steps/Wurtzbourg-selfie.jpg"
                     },
                     { 
                         "value": "[Obligatoire] Selfie devant l'auberge de jeunesse", 
-                        "picture": "https://live.staticflickr.com/8619/16315832698_e809b962af_b.jpg"
+                        "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/steps/Wurtzbourg-hostel.jpg"
                     },
                     { "value": "[Facultatif] Selfie sur l'alte Mainbrücke" },
                     { "value": "[Facultatif] Selfie insolite dans un jardin japonais" },
@@ -50,11 +51,11 @@
                 "challenges": [
                     { 
                         "value": "[Obligatoire] Reproduire le selfie du jour", 
-                        "picture": "https://live.staticflickr.com/8619/16315832698_e809b962af_b.jpg"
+                        "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/steps/Nurnberg-selfie.jpg"
                     },
                     { 
                         "value": "[Obligatoire] Selfie devant l'auberge de jeunesse", 
-                        "picture": "https://live.staticflickr.com/8619/16315832698_e809b962af_b.jpg"
+                        "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/steps/Nurnberg-hostel.jpg"
                     },
                     { "value": "[Facultatif] Selfie devant les armoireries de la ville" },
                     { "value": "[Facultatif]Selfie devant un toit en coupole" },
@@ -66,12 +67,12 @@
                 "date": "2022-08-17 07:00:00",
                 "challenges": [
                     { 
-                        "value": "[Obligatoire] Reproduire le selfie du jour", 
-                        "picture": "https://live.staticflickr.com/8619/16315832698_e809b962af_b.jpg"
+                        "value": "[Obligatoire] Reproduire la photo du jour", 
+                        "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/steps/Regensburg-selfie2.jpg"
                     },
                     { 
                         "value": "[Obligatoire] Selfie devant l'auberge de jeunesse", 
-                        "picture": "https://live.staticflickr.com/8619/16315832698_e809b962af_b.jpg"
+                        "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/steps/Regensburg-hostel.jpg"
                     },
                     { "value": "[Facultatif] Selfie manger une weisswurst devant la cathédrale Saint-Pierre" },
                     { "value": "[Facultatif]Selfie devant Ostentor" },
@@ -83,12 +84,16 @@
                 "date": "2022-08-18 07:00:00",
                 "challenges": [
                     { 
-                        "value": "[Obligatoire] Reproduire le selfie : sigle €", 
-                        "picture": "https://live.staticflickr.com/8619/16315832698_e809b962af_b.jpg"
+                        "value": "[Obligatoire] Reproduire le selfie du jour", 
+                        "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/steps/Munich-selfie.jpg"
+                    },
+                    { 
+                        "value": "[Obligatoire] Reproduire le selfie du jour numéro 2", 
+                        "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/steps/Munich-selfie2.jpg"
                     },
                     { 
                         "value": "[Obligatoire] Selfie devant l'auberge de jeunesse", 
-                        "picture": "https://live.staticflickr.com/8619/16315832698_e809b962af_b.jpg"
+                        "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/steps/Munich-hostel.jpg"
                     },
                     { "value": "[Facultatif] Selfie en mangeant une saucisse devant la brasserie traditionnelle de Munich qui date de 1589" },
                     { "value": "[Facultatif] Vidéo à 360° des toits de Munich (Munich vue d'en haut)" },
