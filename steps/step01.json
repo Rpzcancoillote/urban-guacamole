@@ -19,19 +19,6 @@
                         "value": "https://fr.wikipedia.org/wiki/Heidelberg#/media/Fichier:Wappen_Stadt_de_Heidelberg.svg"
                     }
                 ]
-            },
-            {
-                "tabTitle": "Onglet 02",
-                "content": [
-                    {
-                        "type": "title",
-                        "value": "Titre de ma page"
-                    },
-                    {
-                        "type": "text",
-                        "value": "Du text pour l'affichage"
-                    }
-                ]
             }
         ]
     }

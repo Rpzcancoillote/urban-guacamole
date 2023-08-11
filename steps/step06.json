@@ -19,19 +19,6 @@
                         "value": "https://fr.wikipedia.org/wiki/Munich#/media/Fichier:DEU_M%C3%BCnchen_COA.svg"
                     }			
                 ]
-            },
-            {
-                "tabTitle": "Onglet 02",
-                "content": [
-                    {
-                        "type": "title",
-                        "value": "Titre de ma page"
-                    },
-                    {
-                        "type": "text",
-                        "value": "Du text pour l'affichage"
-                    }
-                ]
             }
         ]
     }

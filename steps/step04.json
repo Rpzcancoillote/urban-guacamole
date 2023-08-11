@@ -19,19 +19,6 @@
                         "value": "https://fr.wikipedia.org/wiki/Nuremberg#/media/Fichier:DEU_N%C3%BCrnberg_COA_(klein).svg"
                     }
                 ]
-            },
-            {
-                "tabTitle": "Onglet 02",
-                "content": [
-                    {
-                        "type": "title",
-                        "value": "Titre de ma page"
-                    },
-                    {
-                        "type": "text",
-                        "value": "Du text pour l'affichage"
-                    }
-                ]
             }
         ]
     }

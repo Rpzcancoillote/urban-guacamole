@@ -72,6 +72,14 @@
                     {
                         "type": "text",
                         "value": "Les épreuves insolites consistent en des épreuves unique à réaliser durant la semaine. \n\nVous devrez envoyer par messenger à Lucie au cours de la semaine, les réponses à l'épreuve insolite.\n\n Attention une seul réponse par personne et par épreuve. \n\n - L'histoire la plus insolite raconté par un conducteur \n\n - La photo la plus insolite. \n\n Jury de ces deux concours : Lucie. (Vote en fin de compétition, photos à envoyer avant le dernier jour)"
+                    },
+                    {
+                        "type": "title",
+                        "value": "Devine, Devinette"
+                    },
+                    {
+                        "type": "text",
+                        "value": "Parce que la culture, c'est bien aussi, on a pensé au développement de tes petits neurones, cher Barystoppeur.\n\n Chaque jour, Lucie enverra une devinette. La réponse devra lui être renvoyée individuellement le plus rapidement possible. Le premier a envoyé la bonne réponse gagnera 4 points."
                     }
 				]
             }

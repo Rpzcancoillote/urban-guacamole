@@ -17,19 +17,6 @@
                         "type": "picture", 
                         "title": "Blason de la ville",
                         "value": "https://fr.wikipedia.org/wiki/Ratisbonne#/media/Fichier:Wappen_Regensburg.svg"
-                    },
-                ]
-            },
-            {
-                "tabTitle": "Onglet 02",
-                "content": [
-                    {
-                        "type": "title",
-                        "value": "Titre de ma page"
-                    },
-                    {
-                        "type": "text",
-                        "value": "Du text pour l'affichage"
                     }
                 ]
             }

@@ -1,11 +1,12 @@
 {
     "challenges": {
         "weekly": [
-            {
-                "value": "Ton défi de la semaine",
-                "picture": "https://live.staticflickr.com/8619/16315832698_e809b962af_b.jpg"
-            },
-            { "value": "Ton défi sans photo" }
+            
+            { "value": "[Défi illimité]Vidéo d'un allemand casquetté disant 'Bienvenue à ‘nom des binomes’ dans la ville de ‘nom de la ville d’étape’ en allemand" },
+            { "value": "[Défi illimité] Selfie saucisse" },
+            { "value": "[Défi illimité] Selfie avec un animal insolite" },
+            {"value": "[Epreuve insolite] L'histoire la plus insolite raconté par un conducteur | Défi individuel unique| Réponse à envoyer à LULU | "},
+            { "value": "[Epreuve insolite] La photo la plus insolite | Défi individuel unique| Réponse à envoyer à LULU " }
         ],
         "daily": [
             {
