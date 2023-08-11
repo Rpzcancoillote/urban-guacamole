@@ -16,7 +16,7 @@
                         "picture": "https://live.staticflickr.com/8619/16315832698_e809b962af_b.jpg"
                     },
                     { 
-                        "value": "[Obligatoire] Reproduire le selfie : sigle €", 
+                        "value": "[Obligatoire] Reproduire le selfie du jour", 
                         "picture": "https://live.staticflickr.com/8619/16315832698_e809b962af_b.jpg"
                     },
                     { 
@@ -24,77 +24,64 @@
                         "picture": "https://live.staticflickr.com/8619/16315832698_e809b962af_b.jpg"
                     },
                     { "value": "[Facultatif] Selfie devant la verrière du Palmengarten" },
-                    { "value": "[FacultatifAC]Selfie sur l'eiserner Steg" },
+                    { "value": "[Facultatif]Selfie sur l'eiserner Steg" },
                     { "value": "[Facultatif] Selfie devant la statue de Goethe en bronze" }
                 ]
             },
             {
                 "date": "2022-08-15 07:00:00",
                 "challenges": [
-                    {
-                        "value": "[Obligatoire] Ou est Lucie?",
-                        "picture": "https://live.staticflickr.com/8619/16315832698_e809b962af_b.jpg"
-                    },
                     { 
-                        "value": "[Obligatoire] Reproduire le selfie : sigle €", 
+                        "value": "[Obligatoire] Reproduire le selfie du jour", 
                         "picture": "https://live.staticflickr.com/8619/16315832698_e809b962af_b.jpg"
                     },
                     { 
                         "value": "[Obligatoire] Selfie devant l'auberge de jeunesse", 
                         "picture": "https://live.staticflickr.com/8619/16315832698_e809b962af_b.jpg"
                     },
-                    { "value": "[Facultatif] Selfie devant la verrière du Palmengarten" },
-                    { "value": "[FacultatifAC]Selfie sur l'eiserner Steg" },
-                    { "value": "[Facultatif] Selfie devant la statue de Goethe en bronze" }
+                    { "value": "[Facultatif] Selfie sur l'alte Mainbrücke" },
+                    { "value": "[Facultatif] Selfie insolite dans un jardin japonais" },
+                    { "value": "[Facultatif] Selfie devant la Residenz Würzburg" },
+                    { "value": "[Facultatif] Selfie sur le Grabenbrücke" }
                 ]
             },
             {
                 "date": "2022-08-16 07:00:00",
                 "challenges": [
-                    {
-                        "value": "[Obligatoire] Ou est Lucie?",
-                        "picture": "https://live.staticflickr.com/8619/16315832698_e809b962af_b.jpg"
-                    },
                     { 
-                        "value": "[Obligatoire] Reproduire le selfie : sigle €", 
+                        "value": "[Obligatoire] Reproduire le selfie du jour", 
                         "picture": "https://live.staticflickr.com/8619/16315832698_e809b962af_b.jpg"
                     },
                     { 
                         "value": "[Obligatoire] Selfie devant l'auberge de jeunesse", 
                         "picture": "https://live.staticflickr.com/8619/16315832698_e809b962af_b.jpg"
                     },
-                    { "value": "[Facultatif] Selfie devant la verrière du Palmengarten" },
-                    { "value": "[FacultatifAC]Selfie sur l'eiserner Steg" },
-                    { "value": "[Facultatif] Selfie devant la statue de Goethe en bronze" }
+                    { "value": "[Facultatif] Selfie devant les armoireries de la ville" },
+                    { "value": "[Facultatif]Selfie devant un toit en coupole" },
+                    { "value": "[Facultatif]Selfie devant la maison d'un célèbre artiste Nurembergeois" },
+                    { "value": "[Facultatif] Selfie insolite dans le Handwerkerhof" }
                 ]
             },
             {
                 "date": "2022-08-17 07:00:00",
                 "challenges": [
-                    {
-                        "value": "[Obligatoire] Ou est Lucie?",
-                        "picture": "https://live.staticflickr.com/8619/16315832698_e809b962af_b.jpg"
-                    },
                     { 
-                        "value": "[Obligatoire] Reproduire le selfie : sigle €", 
+                        "value": "[Obligatoire] Reproduire le selfie du jour", 
                         "picture": "https://live.staticflickr.com/8619/16315832698_e809b962af_b.jpg"
                     },
                     { 
                         "value": "[Obligatoire] Selfie devant l'auberge de jeunesse", 
                         "picture": "https://live.staticflickr.com/8619/16315832698_e809b962af_b.jpg"
                     },
-                    { "value": "[Facultatif] Selfie devant la verrière du Palmengarten" },
-                    { "value": "[FacultatifAC]Selfie sur l'eiserner Steg" },
-                    { "value": "[Facultatif] Selfie devant la statue de Goethe en bronze" }
+                    { "value": "[Facultatif] Selfie manger une weisswurst devant la cathédrale Saint-Pierre" },
+                    { "value": "[Facultatif]Selfie devant Ostentor" },
+                    { "value": "[Facultatif]Selfie sur Eiserne Brücke" },
+                    { "value": "[Facultatif] Selfie devant les armoiries de la ville" }
                 ]
             },
             {
                 "date": "2022-08-18 07:00:00",
                 "challenges": [
-                    {
-                        "value": "[Obligatoire] Ou est Lucie?",
-                        "picture": "https://live.staticflickr.com/8619/16315832698_e809b962af_b.jpg"
-                    },
                     { 
                         "value": "[Obligatoire] Reproduire le selfie : sigle €", 
                         "picture": "https://live.staticflickr.com/8619/16315832698_e809b962af_b.jpg"
@@ -103,9 +90,10 @@
                         "value": "[Obligatoire] Selfie devant l'auberge de jeunesse", 
                         "picture": "https://live.staticflickr.com/8619/16315832698_e809b962af_b.jpg"
                     },
-                    { "value": "[Facultatif] Selfie devant la verrière du Palmengarten" },
-                    { "value": "[FacultatifAC]Selfie sur l'eiserner Steg" },
-                    { "value": "[Facultatif] Selfie devant la statue de Goethe en bronze" }
+                    { "value": "[Facultatif] Selfie en mangeant une saucisse devant la brasserie traditionnelle de Munich qui date de 1589" },
+                    { "value": "[Facultatif] Vidéo à 360° des toits de Munich (Munich vue d'en haut)" },
+                    { "value": "[Facultatif]Selfie en mangeant un Bretzel devant une grande roue" },
+                    { "value": "[Facultatif] Selfie devant un vieux modèle de voiture BMW" }
                 ]
             }
         ]
