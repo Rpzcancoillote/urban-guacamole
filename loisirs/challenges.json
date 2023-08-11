@@ -1,6 +1,12 @@
 {
     "challenges": {
-        "weekly": ["aaa", "bbb"],
+        "weekly": [
+            {
+                "value": "Ton défi de la semaine",
+                "picture": "https://live.staticflickr.com/8619/16315832698_e809b962af_b.jpg"
+            },
+            { "value": "Ton défi sans photo" }
+        ],
         "daily": [
             {
                 "date": "2022-08-14 07:00:00",
