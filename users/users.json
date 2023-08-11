@@ -41,16 +41,24 @@
             "username": "Salomé",
             "age": 28,
             "homeplace": "Paris",
-            "stories": [],
-            "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/salome.jpeg"
+            "stories": [
+                "J'ai toujours rêvé de pécho 'Link'",
+                "Je n'ai jamais été interessé par la victoire dans les jeux, je suis juste une bonne actrice",
+                "Je ne suis en réalité pas très manuelle, je sous traite tout à Florian "
+            ],
+            "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/salome2.jpg"
         },
         {
             "id": "corentin",
             "username": "Corentin",
             "age": 28,
             "homeplace": "Lyon",
-            "stories": [],
-            "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/corentin.jpeg"
+            "stories": [
+                "Je me suis jamais remis de la mort de Kevin",
+                "Les gens disent de moi que je prends mon temps au lit, ils ne mentent pas.",
+                "J'ai toujours des trous dans mes t-shirt à cause d'une excroissance que j'ai sur le ventre"
+            ],
+            "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/corentin2.jpg"
         },
         {
             "id": "florian",
@@ -60,9 +68,9 @@
             "stories": [
                 "J'ai 11 orteils, dont 4 sur le pied droit.",
                 "Quoi de mieux qu'un bon chicorée-calva pour terminer son repas, hein biloute ?",
-                "J'ai a le sens de l'orientation, mais la dernière fois que je me suis perdu, c'est dans tes yeux."
+                "J'ai pas le sens de l'orientation, mais la dernière fois que je me suis perdu, c'etait dans tes yeux."
             ],
-            "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/florian.jpeg"
+            "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/florian2.jpg"
         },
         {
             "id": "julian",
@@ -74,7 +82,7 @@
                 "J’aime les gros moteurs et les belles carrosseries, alors si t’en as sous le capot, fais peter le démarreur ca va partir à toute vitesse !",
                 "Je suis un grand amateur de pétanque, alors si toi aussi t’aimes tâter du cochonnet, on pourra jouer les prolongations !"
             ],
-            "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/julian.jpeg"
+            "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/julian2.jpg"
         },
         {
             "id": "simon",
@@ -86,7 +94,7 @@
                 "Je suis champion de France de combat de sabre laser en manche à balai.",
                 "Engagé dans une association pour défendre les chiwawas rejetés par une société autocentrée sur l'apparence."
             ],
-            "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/simon.jpeg"
+            "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/simon2.jpg"
         }
     ]
 }
