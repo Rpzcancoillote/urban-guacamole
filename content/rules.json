@@ -62,7 +62,7 @@
                     },
                     {
                         "type": "text",
-                        "value":"Faire le plus de ces challenges chaque jour : \n\n - Vidéo d'un allemand casquetté disant 'Bienvenue à ‘nom des binomes’ dans la ville de ‘nom de la ville d’étape’ en allemand \n\n - Selfie saucisse \n\n - Selfie avec un animal insolite \n\n Un Classement quotidien sera réalisé, le binome avec le plus de points remportera 8pt; 6pts; 4pts; 2pts"
+                        "value":"Faire le plus de ces challenges chaque jour : \n\n - Vidéo d'une personne casquetté/chapeauté disant 'Bienvenue à ‘nom des binomes’ dans la ville de ‘nom de la ville d’étape’ en allemand \n\n - Selfie saucisse \n\n - Selfie avec un animal insolite \n\n Un Classement quotidien sera réalisé, le binome avec le plus de points remportera 8pt; 6pts; 4pts; 2pts"
  
 					},
 					{
@@ -79,7 +79,32 @@
                     },
                     {
                         "type": "text",
-                        "value": "Parce que la culture, c'est bien aussi, on a pensé au développement de tes petits neurones, cher Barystoppeur.\n\n Chaque jour, Lucie enverra une devinette. La réponse devra lui être renvoyée individuellement le plus rapidement possible. Le premier a envoyé la bonne réponse gagnera 4 points."
+                        "value": "Parce que la culture, c'est bien aussi, on a pensé au développement de tes petits neurones, cher Barystoppeur.\n\n Chaque jour, Lucie enverra une devinette. La réponse devra lui être renvoyée individuellement le plus rapidement possible. Le premier a envoyé la bonne réponse gagnera un bonus ou un malus à attribuer le lendemain."
+                    }
+				]
+            },
+            {
+                "tabTitle": "Bonus Malus",
+                "content": [
+                    {
+                        "type": "title",
+                        "value": "1 - Le boulet"
+                    },
+					{
+                        "type": "title",
+                        "value": "2 - A la tienne !"
+                    },
+					{
+                        "type": "title",
+                        "value": "3 - Je suis une Masse !"
+                    },
+					{
+                        "type": "title",
+                        "value": "4 - La poule ou l'oeuf"
+                    },
+                    {
+                        "type": "title",
+                        "value": "5 - On s’attache et on s’empoisonne"
                     }
 				]
             }
