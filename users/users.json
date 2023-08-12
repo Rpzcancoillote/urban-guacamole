@@ -14,7 +14,7 @@
         },
         {
             "id": "gabrielle",
-            "username": "Gabrielle",
+            "username": "Grabou",
             "age": 29,
             "homeplace": "Paris",
             "stories": [
@@ -58,7 +58,7 @@
                 "Les gens disent de moi que je prends mon temps au lit, ils ne mentent pas.",
                 "J'ai toujours des trous dans mes t-shirt à cause d'une excroissance que j'ai sur le ventre"
             ],
-            "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/corentin3.jpg"
+            "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/corentin2.jpg"
         },
         {
             "id": "florian",
@@ -90,9 +90,10 @@
             "age": 29,
             "homeplace": "Saint-Mandé",
             "stories": [
-                "\"J'fais du peura sur le cul ta daronne\" Musicien à mes heures perdues",
-                "Je suis champion de France de combat de sabre laser en manche à balai.",
-                "Engagé dans une association pour défendre les chiwawas rejetés par une société autocentrée sur l'apparence."
+                "Il est expert en cybersécurité, et il compte bien exploiter toutes les failles de ton corps.",
+                "Il soigne son hypoglycémie avec du porto",
+                "Aujourd'hui c'est un auto-stoppeur, mais avec il sera un auto-tamponneur.",
+                "Il est convaincu que le Caire est un nid d'espion et que le Brésil n'a pas de téléphone"
             ],
             "picture": "https://raw.githubusercontent.com/rpzcancoillote/urban-guacamole/main/pictures/users/simon2.jpg"
         }
