@@ -53,7 +53,7 @@
             "teams": [
                 {
                     "user01": "julian",
-                    "user02": "eva",
+                    "user02": "eva"
                 },
                 {
                     "user01": "simon",
@@ -62,11 +62,11 @@
                 },
                 {
                     "user01": "corentin",
-                    "user02": "marie",
+                    "user02": "marie"
                 },
                 {
                     "user01": "florian",
-                    "user02": "salome",
+                    "user02": "salome"
                 }
             ]
         },
