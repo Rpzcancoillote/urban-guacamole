@@ -77,27 +77,20 @@
             "teams": [
                 {
                     "user01": "julian",
-                    "user02": "marie",
-                    "color01": "#fcba03",
-                    "color02": "#fcba03"
+                    "user02": "marie"
                 },
                 {
                     "user01": "simon",
                     "user02": "salome",
-                    "color01": "#fcba03",
-                    "color02": "#fcba03"
+                    "color02": "#00ff00"
                 },
                 {
                     "user01": "corentin",
-                    "user02": "eva",
-                    "color01": "#fcba03",
-                    "color02": "#fcba03"
+                    "user02": "eva"
                 },
                 {
                     "user01": "florian",
-                    "user02": "gabrielle",
-                    "color01": "#fcba03",
-                    "color02": "#fcba03"
+                    "user02": "gabrielle"
                 }
             ]
         },
