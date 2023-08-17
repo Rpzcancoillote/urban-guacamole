@@ -35,14 +35,14 @@
         },
         {
             "date": "2023-08-17 07:00:00",
-            "eva": 0,
-            "gabrielle": 0,
-            "marie": 0,
-            "salome": 0,
-            "corentin": 0,
-            "florian": 0,
-            "julian": 0,
-            "simon": 0
+            "eva": 4,
+            "gabrielle": 4,
+            "marie": 3,
+            "salome": 4,
+            "corentin": 4,
+            "florian": 4,
+            "julian": 3,
+            "simon": 4
         },
         {
             "date": "2023-08-18 07:00:00",
