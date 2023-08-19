@@ -101,7 +101,9 @@
             "teams": [
                 {
                     "user01": "julian",
-                    "user02": "gabrielle"
+                    "user02": "gabrielle",
+                    "color01": "#ff0000",
+                    "color02": "#ff0000"       
                 },
                 {
                     "user01": "simon",
